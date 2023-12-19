@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "892643950181",
+    "firebase_url": "https://my-application-93802-default-rtdb.firebaseio.com",
+    "project_id": "my-application-93802",
+    "storage_bucket": "my-application-93802.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892643950181:android:dbe587554cdf60373a508c",
+        "android_client_info": {
+          "package_name": "com.example.alpha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiXuvio-uoNtjpvri1MVKW26VcO4DfZBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892643950181:android:7e8d6a322603b4ec3a508c",
+        "android_client_info": {
+          "package_name": "com.example.camerafb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiXuvio-uoNtjpvri1MVKW26VcO4DfZBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
